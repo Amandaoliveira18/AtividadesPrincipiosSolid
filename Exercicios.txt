@@ -1,0 +1,77 @@
+1- Defina o que é classe e o que é objeto e como podemos cria-los na linguagem C#.
+Classe é onde podemos definir as propriedades, metódos e construtores para geração de um objeto.
+Objeto é a instanciação da classe.
+
+Criação de uma classe:Pessoa
+
+Public class Pessoa
+{
+   public string Nome {get; set private}
+   public int Idade   {get; set private}  
+} 
+
+Objeto: p1
+
+static void main (args[])
+{
+  Pessoa p1 = new Pessoa ();
+  p1.Nome = "Amanda";
+  p1.Idade = 22;
+}
+
+
+2- Como você define o conceito de abstração usado no paradigma da Programação 
+orientada a objetos ?
+A abstração é a forma de transformar os objetos do mundo "real" com caracteristicas para representar no mundo da programção.
+
+
+
+3- Dê um exemplo de abstração no mundo real. 
+Carro:
+Cor, modelo, ano de fabrição e placa.
+
+
+
+4- O que é encapsulamento e quais são os seus benefícios?
+Encapsulamento é a maneira de alterar o modificador de acesso de uma propriedade, metódo ou classe.
+Os benefícios do encapsulamento é tornar o código "seguro" para que não haja alterações e acessos em lugares não permitidos no assembly.
+
+
+5- Quando um construtor de uma classe é chamado?
+No momento da instanciação, se houver propriedades definidas é necessário escrever os argumentos.
+
+
+
+6- Se você criar 5 objetos de uma classe, quantas vezes o construtor da classe será 
+chamado?
+5 vezes.
+
+
+7- Por que você usa um construtor?
+Para definir quais são os argumentos que deve ser passado, para definição de um objeto, as suas caracteristicas.
+
+
+8- Crie uma classe para calcular a soma de até 2 números inteiros e/ou reais usando o 
+conceito de sobrecarga de métodos. Se nenhum valor for informado retorne a mensagem 
+“Nenhum valor informado”.
+
+
+
+9- Crie uma classe para calcular a soma de até 4 números inteiros usando o conceito de 
+parâmetros opcionais.
+
+
+10- Qual o conceito de herança? Dê um exemplo
+O conceito de herança é herdar da classe (pai) do mesmo tipo metódos ou propriedades para o reaproveitamento de código.
+Exemplo:
+Tenho uma classe Conta Corrente e Conta poupança
+com as prop:
+public string Nome;
+public string NumeroConta
+
+a Conta poupança pode herdar da conta corrente
+public class ContaPoupanca : ContaCorrente
+
+public int JurosMensais.
+
+Utilizo da classe pai as prop Nome e NumeroConta.
