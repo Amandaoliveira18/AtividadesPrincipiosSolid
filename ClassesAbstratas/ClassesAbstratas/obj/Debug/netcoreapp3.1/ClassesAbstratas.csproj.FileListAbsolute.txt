@@ -1,0 +1,13 @@
+C:\Users\Amanda Santos\Documents\Aprendendo c#\PrincipiosSolid\AtividadesPrincipiosSolid\ClassesAbstratas\ClassesAbstratas\bin\Debug\netcoreapp3.1\ClassesAbstratas.exe
+C:\Users\Amanda Santos\Documents\Aprendendo c#\PrincipiosSolid\AtividadesPrincipiosSolid\ClassesAbstratas\ClassesAbstratas\bin\Debug\netcoreapp3.1\ClassesAbstratas.deps.json
+C:\Users\Amanda Santos\Documents\Aprendendo c#\PrincipiosSolid\AtividadesPrincipiosSolid\ClassesAbstratas\ClassesAbstratas\bin\Debug\netcoreapp3.1\ClassesAbstratas.runtimeconfig.json
+C:\Users\Amanda Santos\Documents\Aprendendo c#\PrincipiosSolid\AtividadesPrincipiosSolid\ClassesAbstratas\ClassesAbstratas\bin\Debug\netcoreapp3.1\ClassesAbstratas.runtimeconfig.dev.json
+C:\Users\Amanda Santos\Documents\Aprendendo c#\PrincipiosSolid\AtividadesPrincipiosSolid\ClassesAbstratas\ClassesAbstratas\bin\Debug\netcoreapp3.1\ClassesAbstratas.dll
+C:\Users\Amanda Santos\Documents\Aprendendo c#\PrincipiosSolid\AtividadesPrincipiosSolid\ClassesAbstratas\ClassesAbstratas\bin\Debug\netcoreapp3.1\ClassesAbstratas.pdb
+C:\Users\Amanda Santos\Documents\Aprendendo c#\PrincipiosSolid\AtividadesPrincipiosSolid\ClassesAbstratas\ClassesAbstratas\obj\Debug\netcoreapp3.1\ClassesAbstratas.csprojAssemblyReference.cache
+C:\Users\Amanda Santos\Documents\Aprendendo c#\PrincipiosSolid\AtividadesPrincipiosSolid\ClassesAbstratas\ClassesAbstratas\obj\Debug\netcoreapp3.1\ClassesAbstratas.AssemblyInfoInputs.cache
+C:\Users\Amanda Santos\Documents\Aprendendo c#\PrincipiosSolid\AtividadesPrincipiosSolid\ClassesAbstratas\ClassesAbstratas\obj\Debug\netcoreapp3.1\ClassesAbstratas.AssemblyInfo.cs
+C:\Users\Amanda Santos\Documents\Aprendendo c#\PrincipiosSolid\AtividadesPrincipiosSolid\ClassesAbstratas\ClassesAbstratas\obj\Debug\netcoreapp3.1\ClassesAbstratas.csproj.CoreCompileInputs.cache
+C:\Users\Amanda Santos\Documents\Aprendendo c#\PrincipiosSolid\AtividadesPrincipiosSolid\ClassesAbstratas\ClassesAbstratas\obj\Debug\netcoreapp3.1\ClassesAbstratas.dll
+C:\Users\Amanda Santos\Documents\Aprendendo c#\PrincipiosSolid\AtividadesPrincipiosSolid\ClassesAbstratas\ClassesAbstratas\obj\Debug\netcoreapp3.1\ClassesAbstratas.pdb
+C:\Users\Amanda Santos\Documents\Aprendendo c#\PrincipiosSolid\AtividadesPrincipiosSolid\ClassesAbstratas\ClassesAbstratas\obj\Debug\netcoreapp3.1\ClassesAbstratas.genruntimeconfig.cache
