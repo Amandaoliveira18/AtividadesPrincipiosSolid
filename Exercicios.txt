@@ -1,6 +1,17 @@
 1- Defina o que é classe e o que é objeto e como podemos cria-los na linguagem C#.
 Classe é onde podemos definir as propriedades, metódos e construtores para geração de um objeto.
+
+Uma classe é uma estrutura de dados e comportamentos que pode conter campos, constantes, métodos, propriedades, eventos, operadores, construtores e destrutores.
+
+Uma classe é um modelo ou gabarito para a definição de objetoss.
+
+Um objeto não existe sem a definição de uma classe.
+
 Objeto é a instanciação da classe.
+
+As classes são tipos e os objetos são instâncias das classes.
+
+A classe Funciona como um modeelo, uma planta a partir da qual são criados os objetos.
 
 Criação de uma classe:Pessoa
 
@@ -23,23 +34,38 @@ static void main (args[])
 2- Como você define o conceito de abstração usado no paradigma da Programação 
 orientada a objetos ?
 A abstração é a forma de transformar os objetos do mundo "real" com caracteristicas para representar no mundo da programção.
+A abstração é um dos três pilares da OOP.
+- Significa perceber uma entidade em um sistema ou contexte de uma perspectiva específica.
 
+- Descartar os detalhes desnecessários e focar apenas nos aspectops necessários para esse contexto ou sistema em consideração.
+- Realizar a abstração é selecionar dados de um pool maior para mostrar apenas os detalhes relevantes do objeto ao usuário.
+
+A abstração ajuda a reduzir a complexidade e o esforço da programação.
 
 
 3- Dê um exemplo de abstração no mundo real. 
-Carro:
-Cor, modelo, ano de fabrição e placa.
+Notebook é composto de várias partes como processador, RAM, placa mãe, tela LCD, camera, portas USB, etc.
 
+Para usá-lo, precisamos apenas saber como operar o notebook ligando o aparelho
+
+Não precisamos saber detalhes do funcionamento interno.
+
+Aqui, o notebook é um objeto projeto para expor apenas os recursos necessários ocultando seus detalhes de implementação. Exemplo de abstração do mundo real.
 
 
 4- O que é encapsulamento e quais são os seus benefícios?
 Encapsulamento é a maneira de alterar o modificador de acesso de uma propriedade, metódo ou classe.
 Os benefícios do encapsulamento é tornar o código "seguro" para que não haja alterações e acessos em lugares não permitidos no assembly.
 
+- Public: Acesso total ao objeto
+- Private: Restritivo
+- Protected:Acesso somente aos membros da própria classe e o objetos que herdam
+- Internal:É usado para especificar que o acesso está limitado à assembly atual.
+- Protected Internal: É usado para especificar que o acesso é limitado ao conjunto atual ou tipos derivados da classe .
+
 
 5- Quando um construtor de uma classe é chamado?
-No momento da instanciação, se houver propriedades definidas é necessário escrever os argumentos.
-
+No momento da instanciação, Assim quando criamos um objeto da classe o construtor é chamado.
 
 
 6- Se você criar 5 objetos de uma classe, quantas vezes o construtor da classe será 
@@ -49,7 +75,7 @@ chamado?
 
 7- Por que você usa um construtor?
 Para definir quais são os argumentos que deve ser passado, para definição de um objeto, as suas caracteristicas.
-
+Assim um construtor é util para inicializar e definir valores padrão para os membros de dados do novo objeto.
 
 8- Crie uma classe para calcular a soma de até 2 números inteiros e/ou reais usando o 
 conceito de sobrecarga de métodos. Se nenhum valor for informado retorne a mensagem 
@@ -63,6 +89,13 @@ parâmetros opcionais.
 
 10- Qual o conceito de herança? Dê um exemplo
 O conceito de herança é herdar da classe (pai) do mesmo tipo metódos ou propriedades para o reaproveitamento de código.
+
+A herança permite a reutilização de código e especifica um relacionamento de especialização/generealização do tipo "é um";
+
+A herança deve ser usada somente quando necessário pois pode levar a um acoplamento forte entre a classes do projeto dificultadno a sua reusabilidade e a manutenção.
+
+Existe a herança de implememtação onde uma classe derivada herda da classe base e a herança de interface onde um classe pode herdar de uma interface, neste caso apenas as assinaturas dos metódos são herdados sendo que os métodos devem ser implementados.
+
 Exemplo:
 Tenho uma classe Conta Corrente e Conta poupança
 com as prop:
@@ -75,3 +108,6 @@ public class ContaPoupanca : ContaCorrente
 public int JurosMensais.
 
 Utilizo da classe pai as prop Nome e NumeroConta.
+
+
+oBE
