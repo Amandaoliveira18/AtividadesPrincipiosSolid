@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PolimorfismoExemplo", "PolimorfismoExemplo\PolimorfismoExemplo.csproj", "{836F6A88-8B7A-4A4A-BC3D-9CB03C8A62F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sobrecarga", "Sobrecarga\Sobrecarga.csproj", "{DAEB2028-33D9-4C1D-AA7C-04ADCAECCBD7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{836F6A88-8B7A-4A4A-BC3D-9CB03C8A62F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{836F6A88-8B7A-4A4A-BC3D-9CB03C8A62F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{836F6A88-8B7A-4A4A-BC3D-9CB03C8A62F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{836F6A88-8B7A-4A4A-BC3D-9CB03C8A62F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAEB2028-33D9-4C1D-AA7C-04ADCAECCBD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAEB2028-33D9-4C1D-AA7C-04ADCAECCBD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAEB2028-33D9-4C1D-AA7C-04ADCAECCBD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAEB2028-33D9-4C1D-AA7C-04ADCAECCBD7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BEB07209-8CF9-4A83-8BB0-1F4919E55692}
+	EndGlobalSection
+EndGlobal

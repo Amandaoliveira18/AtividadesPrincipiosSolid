@@ -4,7 +4,8 @@ using System.Text;
 
 namespace InterfaceExemplo2
 {
-    interface Interface1
-    {
-    }
+     interface IRegistro
+     {
+        void RegistraInfo(string mensagem);
+     }
 }
