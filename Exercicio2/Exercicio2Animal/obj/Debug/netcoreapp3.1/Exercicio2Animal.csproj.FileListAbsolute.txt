@@ -1,0 +1,13 @@
+C:\Users\Amanda Santos\Documents\Aprendendo c#\PrincipiosSolid\AtividadesPrincipiosSolid\Exercicio2\Exercicio2Animal\bin\Debug\netcoreapp3.1\Exercicio2Animal.exe
+C:\Users\Amanda Santos\Documents\Aprendendo c#\PrincipiosSolid\AtividadesPrincipiosSolid\Exercicio2\Exercicio2Animal\bin\Debug\netcoreapp3.1\Exercicio2Animal.deps.json
+C:\Users\Amanda Santos\Documents\Aprendendo c#\PrincipiosSolid\AtividadesPrincipiosSolid\Exercicio2\Exercicio2Animal\bin\Debug\netcoreapp3.1\Exercicio2Animal.runtimeconfig.json
+C:\Users\Amanda Santos\Documents\Aprendendo c#\PrincipiosSolid\AtividadesPrincipiosSolid\Exercicio2\Exercicio2Animal\bin\Debug\netcoreapp3.1\Exercicio2Animal.runtimeconfig.dev.json
+C:\Users\Amanda Santos\Documents\Aprendendo c#\PrincipiosSolid\AtividadesPrincipiosSolid\Exercicio2\Exercicio2Animal\bin\Debug\netcoreapp3.1\Exercicio2Animal.dll
+C:\Users\Amanda Santos\Documents\Aprendendo c#\PrincipiosSolid\AtividadesPrincipiosSolid\Exercicio2\Exercicio2Animal\bin\Debug\netcoreapp3.1\Exercicio2Animal.pdb
+C:\Users\Amanda Santos\Documents\Aprendendo c#\PrincipiosSolid\AtividadesPrincipiosSolid\Exercicio2\Exercicio2Animal\obj\Debug\netcoreapp3.1\Exercicio2Animal.csprojAssemblyReference.cache
+C:\Users\Amanda Santos\Documents\Aprendendo c#\PrincipiosSolid\AtividadesPrincipiosSolid\Exercicio2\Exercicio2Animal\obj\Debug\netcoreapp3.1\Exercicio2Animal.AssemblyInfoInputs.cache
+C:\Users\Amanda Santos\Documents\Aprendendo c#\PrincipiosSolid\AtividadesPrincipiosSolid\Exercicio2\Exercicio2Animal\obj\Debug\netcoreapp3.1\Exercicio2Animal.AssemblyInfo.cs
+C:\Users\Amanda Santos\Documents\Aprendendo c#\PrincipiosSolid\AtividadesPrincipiosSolid\Exercicio2\Exercicio2Animal\obj\Debug\netcoreapp3.1\Exercicio2Animal.csproj.CoreCompileInputs.cache
+C:\Users\Amanda Santos\Documents\Aprendendo c#\PrincipiosSolid\AtividadesPrincipiosSolid\Exercicio2\Exercicio2Animal\obj\Debug\netcoreapp3.1\Exercicio2Animal.dll
+C:\Users\Amanda Santos\Documents\Aprendendo c#\PrincipiosSolid\AtividadesPrincipiosSolid\Exercicio2\Exercicio2Animal\obj\Debug\netcoreapp3.1\Exercicio2Animal.pdb
+C:\Users\Amanda Santos\Documents\Aprendendo c#\PrincipiosSolid\AtividadesPrincipiosSolid\Exercicio2\Exercicio2Animal\obj\Debug\netcoreapp3.1\Exercicio2Animal.genruntimeconfig.cache

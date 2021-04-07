@@ -1,0 +1,13 @@
+C:\Users\Amanda Santos\Documents\Aprendendo c#\PrincipiosSolid\AtividadesPrincipiosSolid\SolidExemplos\OCP\obj\Debug\netcoreapp3.1\OCP_Extensions.csprojAssemblyReference.cache
+C:\Users\Amanda Santos\Documents\Aprendendo c#\PrincipiosSolid\AtividadesPrincipiosSolid\SolidExemplos\OCP\obj\Debug\netcoreapp3.1\OCP_Extensions.AssemblyInfoInputs.cache
+C:\Users\Amanda Santos\Documents\Aprendendo c#\PrincipiosSolid\AtividadesPrincipiosSolid\SolidExemplos\OCP\obj\Debug\netcoreapp3.1\OCP_Extensions.AssemblyInfo.cs
+C:\Users\Amanda Santos\Documents\Aprendendo c#\PrincipiosSolid\AtividadesPrincipiosSolid\SolidExemplos\OCP\obj\Debug\netcoreapp3.1\OCP_Extensions.csproj.CoreCompileInputs.cache
+C:\Users\Amanda Santos\Documents\Aprendendo c#\PrincipiosSolid\AtividadesPrincipiosSolid\SolidExemplos\OCP\bin\Debug\netcoreapp3.1\OCP_Extensions.exe
+C:\Users\Amanda Santos\Documents\Aprendendo c#\PrincipiosSolid\AtividadesPrincipiosSolid\SolidExemplos\OCP\bin\Debug\netcoreapp3.1\OCP_Extensions.deps.json
+C:\Users\Amanda Santos\Documents\Aprendendo c#\PrincipiosSolid\AtividadesPrincipiosSolid\SolidExemplos\OCP\bin\Debug\netcoreapp3.1\OCP_Extensions.runtimeconfig.json
+C:\Users\Amanda Santos\Documents\Aprendendo c#\PrincipiosSolid\AtividadesPrincipiosSolid\SolidExemplos\OCP\bin\Debug\netcoreapp3.1\OCP_Extensions.runtimeconfig.dev.json
+C:\Users\Amanda Santos\Documents\Aprendendo c#\PrincipiosSolid\AtividadesPrincipiosSolid\SolidExemplos\OCP\bin\Debug\netcoreapp3.1\OCP_Extensions.dll
+C:\Users\Amanda Santos\Documents\Aprendendo c#\PrincipiosSolid\AtividadesPrincipiosSolid\SolidExemplos\OCP\bin\Debug\netcoreapp3.1\OCP_Extensions.pdb
+C:\Users\Amanda Santos\Documents\Aprendendo c#\PrincipiosSolid\AtividadesPrincipiosSolid\SolidExemplos\OCP\obj\Debug\netcoreapp3.1\OCP_Extensions.dll
+C:\Users\Amanda Santos\Documents\Aprendendo c#\PrincipiosSolid\AtividadesPrincipiosSolid\SolidExemplos\OCP\obj\Debug\netcoreapp3.1\OCP_Extensions.pdb
+C:\Users\Amanda Santos\Documents\Aprendendo c#\PrincipiosSolid\AtividadesPrincipiosSolid\SolidExemplos\OCP\obj\Debug\netcoreapp3.1\OCP_Extensions.genruntimeconfig.cache
